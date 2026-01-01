@@ -1,0 +1,7 @@
+{
+  "name": "TMC IT SUPPORT",
+  "description": "An advanced AI-powered IT Helpdesk platform featuring real-time voice assistance, ticket management, and automated technical troubleshooting using Gemini 3 Pro and 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
